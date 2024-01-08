@@ -1,0 +1,164 @@
+{
+    "Title": [
+        {
+            "title": "Aspring Software Developer",
+            "profile-image": "https://i.postimg.cc/FRkg2D3C/me.png"
+        }
+    ],
+    "about": [
+        "I aspire to be a full stack developer and Game Developer. Learning is key in life and to never have a fixed mindset of I Know Enough. I have a keen interest in learning coding, a burning passion to create and to provide. I enjoy helping everyone. I am fueled with energy and passion. When I am not  infront of a device I spend my time with family or nature, nothing more soothing than hearing the wind blow between the trees without our modern day noise. I enjoy having a balance towards everything as too much of something is bad. There's no substitute for hardwork. if it's easy then do it easy, if it's hard than do it hard, just get it done because failure is limitations that you set for yourself, so I choose to be limitless and to become undeniable."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "Commerce degree in Information Management",
+            "place": "Damelin Mowbray",
+            "type": "Degree"
+        },
+        {
+            "id": 2,
+            "year": 2015,
+            "description": "High School ",
+            "place": "Plumstead High School",
+            "type": "Certificate"
+        }
+    ],
+    "technical-skills": [
+        {
+            "title": "HTML",
+            "level": " Junior",
+            "description": "I have a basic understanding of how to build a website",
+            "display": "https://i.postimg.cc/NFQphR43/HTML-5-Logo.png"
+        },
+        {
+            "title": "CSS",
+            "level": "Junior",
+            "description": "I have basic understanding of styling a website",
+            "display": "https://i.postimg.cc/mZFbhCTY/CSS-Logo.png"
+        },
+        {
+            "title": "Bootstrap 5",
+            "level":" Junior",
+            "description": "I have a basic understanding of how to incorporate boostrap 5 within HTML 5",
+            "display": "https://i.postimg.cc/FKfzhqzv/Bootstrap-5-Logo.png"
+        },
+        {
+            "title": "Javascript",
+            "level": "Junior",
+            "description": "I have a basic understanding of how to add functionality into the website",
+            "display": "https://i.postimg.cc/brzQMfjG/JS-1.png"
+        },
+        {
+            "title": "VueJS",
+            "level": "Junior",
+            "description": "I have a basic understanding of how VueJS works",
+            "display": "https://i.postimg.cc/RVNw6B4R/vuej-1.png"
+        }
+    ],
+
+    "experience": [
+        {
+            "job-tite": "Technical Call Centre Agent",
+            "job-description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
+            "year": "2019"
+        },
+        {
+            "job-tite": ">AV Technician in Training",
+            "job-description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
+            "year": "2020"
+        },
+        {
+            "job-tite": "Warehouse Storeman",
+            "job-description": "Solely in charge of warehouse operations, managing, conducting quality assurance checks for new stock arrivals, drafting reports for damaged goods and reporting to chain of command, assisting technical with any inquiries relating product resolutions and stock replacements, assisted sales representatives with reports of expected stock date arrivals and customer Project and delivery, ensured warehouse safety and security, cleanliness and upkeep of inventory for both warehouse and office employees, and much more.",
+            "year": "2021"
+        },
+        {
+            "job-tite": "Life Choices Student",
+            "job-description": "Coding Bootcamp to learn, understand and design and develop web applications",
+            "year":" current"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Matthew",
+            "surname": "Brown",
+            "testimonial": "Niyaaz is a hardworking and dedicated individual. His analytical and creative skills are exceptional. He is confident, shows great work ethic and knows how to work in a team.",
+            "image": "https://i.postimg.cc/g0ybsdcr/Matthew.png"
+        },
+        {
+            "name": "Daanyaal",
+            "surname": "Kellerman",
+            "testimonial": "Niyaaz, is a coding wizard! His passion for problem solving shows in his personality and work. He's always ready to help, patient with questions, and fosters a supportive learning environment. Niyaaz is an invaluable asset to my team.",
+            "image": "https://i.postimg.cc/T3tTvTMS/Daanyaal.png"
+        },
+        {
+            "name": "Joel",
+            "surname": "Williams",
+            "testimonial": "Niyaaz is an extremely hardworking person. His dedication and concentration in his work are genuinely astounding, and he consistently goes above and beyond to get exceptional outcomes. It's a pleasure to work with someone who is so focused and driven.",
+            "image": "https://i.postimg.cc/0Ncp6hdB/joel.png"
+        },
+        {   
+            "name": "Unity",
+            "surname": "Demas",
+            "testimonial": "Niyaaz's proficiency in various programming languages and problem-solving skills are truly impressive. Niyaaz's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team.",
+            "image": "https://i.postimg.cc/1Xyqdm7G/unitydemas-1-removebg-preview.png"
+        },
+        {   
+            "name": "Chad",
+            "surname": "Nelson",
+            "testimonial": "",
+            "image": "https://i.postimg.cc/xdSs3CdY/IMG-20221101-200733-582-removebg-preview-1-1.png"
+        },
+        {   
+            "name": "Haanim",
+            "surname": "Pietersen",
+            "testimonial": "",
+            "image": "https://i.postimg.cc/d3Tdf2Wf/IMG-20231225-100757.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this project using HTML 5, CSS, and basic Javascript.",
+            "image": "https://i.postimg.cc/W49HN8Xf/TDL-1.png",
+            "gitHub": "https://github.com/niyaazdaniels/TDL",
+            "hosted": "tdl-omega.vercel.app"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://i.postimg.cc/rsXKyg6Z/calculator-removebg-preview.png",
+            "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
+            "hosted": "https://niyaazdaniels-calculator.netlify.app"
+        },
+        {
+            "name": "Keyboard",
+            "description": "I built this project using basic HTML 5 and CSS 3",
+            "image": "https://i.postimg.cc/MTkW1Tsv/keyboard-removebg-preview.png",
+            "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
+            "hosted": "https://niyaazdaniels-keyboard.netlify.app"
+        },
+        {
+            "name": "Netflix",
+            "description": "I built a replica of netflix using HTML 5, CSS however there is no functionality",
+            "image": "https://i.postimg.cc/yxZcvkKt/Netflix-removebg-preview.png",
+            "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
+            "hosted": "https://niyaazdaniels-netflix.netlify.app"
+        },
+        {
+            "name": "First Ecommerce",
+            "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
+            "image": "https://i.postimg.cc/tJK3Vthc/Ecommerce-removebg-preview.png",
+            "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
+            "hosted": "https://ecommerce-module1-niyaazdaniels.netlify.app"
+        },
+        {
+            "name": "Second Ecommerce",
+            "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
+            "image": "https://i.postimg.cc/tJSwtvX2/Bobs-Clothing-removebg-preview.png",
+            "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
+            "hosted": "https://elaborate-kringle-f401f5.netlify.app"
+        }
+    ]
+}
