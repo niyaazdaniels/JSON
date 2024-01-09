@@ -21,7 +21,7 @@
     "education": [
         {
             "id": 1,
-            "year": 2016 - 2019,
+            "year": "2016 to 2019",
             "description": "Commerce degree in Information Management",
             "place": "Damelin Mowbray",
             "type": "Degree"
