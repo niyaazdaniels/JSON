@@ -2,7 +2,8 @@
     "home": [
         {
             "title": "Aspring Full Stack Developer",
-            "intro": "My name is Niyaaz Daniels and Welcome to my Portfolio",
+            "intro": "My name is Niyaaz Daniels",
+            "welcome": "Welcome to my Portfolio"
             "subintro": "I am a Dreamer, Developer and Hungry for success",
             "image": "https://drive.google.com/uc?id=1ynLQiCH0pwASX1QTfjr5wIBhtw-5zYHS"
         }
