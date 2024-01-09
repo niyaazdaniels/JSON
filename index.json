@@ -104,85 +104,85 @@
             "name": "Matthew",
             "surname": "Brown",
             "testimonial": "Niyaaz is a hardworking and dedicated individual. His analytical and creative skills are exceptional. He is confident, shows great work ethic and knows how to work in a team.",
-            "image": "https://drive.google.com/uc?id=1IajGWUTilEL2KqG9pwf2BjzC6t1LQZ6J"
+            "image": "https://iili.io/J78TmCl.png"
         },
         {
             "name": "Daanyaal",
             "surname": "Kellerman",
             "testimonial": "Niyaaz, is a coding wizard! His passion for problem solving shows in his personality and work. He's always ready to help, patient with questions, and fosters a supportive learning environment. Niyaaz is an invaluable asset to my team.",
-            "image": "https://drive.google.com/uc?id=1qpGE_OcpcsnWGkkD2SJ3WYxmgM7jNMRG"
+            "image": "https://iili.io/J78Tsvn.png"
         },
         {
             "name": "Joel",
             "surname": "Williams",
             "testimonial": "Niyaaz is an extremely hardworking person. His dedication and concentration in his work are genuinely astounding, and he consistently goes above and beyond to get exceptional outcomes. It's a pleasure to work with someone who is so focused and driven.",
-            "image": "https://drive.google.com/uc?id=1-nlI57pdZJsDjFNl0JkHw4pMsiGZml7P"
+            "image": "https://iili.io/J78TrEN.png"
         },
         {   
             "name": "Unity",
             "surname": "Demas",
             "testimonial": "Niyaaz's proficiency in various programming languages and problem-solving skills are truly impressive. Niyaaz's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team.",
-            "image": "https://drive.google.com/uc?id=1m3tZDo8cxUbvzMjhS862Utxz_hGe3NX3"
+            "image": "https://iili.io/J78ThrP.png"
         },
         {   
             "name": "Chad",
             "surname": "Nelson",
             "testimonial": "Niyaaz is great at handling tasks and projects. He's efficient, communicates well, and consistently succeeds in different work environments, showing his capability and effectiveness.",
-            "image": "https://drive.google.com/uc?id=1xE9ZYlaeqDT_Q4DUnoIAZdmU6xK3p_Zo"
+            "image": "https://iili.io/J78TRB2.png"
         },
         {   
             "name": "Haanim",
             "surname": "Pietersen",
             "testimonial": "From the time that I've known Niyaaz I have known him to be a hardworking and understanding person. He is very determined at getting his work and proves how hardworking he is through all his time and efforts in coding. He is also a great person to talk to when you need someone to listen. He can be seen as a great person to lead the team with all the characteristics of a leader. I would highly recommend Niyaaz to be a great worker in a team and alone, as well as someone that understands and codes well.",
-            "image": "https://drive.google.com/uc?id=10m6tlnNz1GiEc_uKAiXK2SxjDuNJqoD8"
+            "image": "https://iili.io/J78TIIf.md.png"
         },
         {   
             "name": "Zubair",
             "surname": "Moerat",
             "testimonial": "I wholeheartedly recommend Niyaaz Daniels for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time.",
-            "image": "https://drive.google.com/uc?id=1G1NkoOZYI26CzEdvu5By-dmqgbGgz5Ck"
+            "image": "https://iili.io/J78T3sp.md.jpg"
         }
     ],
     "projects":[
         {
             "name": "To-do List",
             "description": "I built this project using HTML 5, CSS, and basic Javascript.",
-            "image": "https://i.postimg.cc/W49HN8Xf/TDL-1.png",
+            "image": "https://iili.io/J78I7Ra.md.png",
             "gitHub": "https://github.com/niyaazdaniels/TDL",
             "hosted": "tdl-omega.vercel.app"
         },
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.postimg.cc/rsXKyg6Z/calculator-removebg-preview.png",
+            "image": "https://iili.io/J78Iks2.png",
             "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
             "hosted": "https://niyaazdaniels-calculator.netlify.app"
         },
         {
             "name": "Keyboard",
             "description": "I built this project using basic HTML 5 and CSS 3",
-            "image": "https://i.postimg.cc/MTkW1Tsv/keyboard-removebg-preview.png",
+            "image": "https://iili.io/J78IS07.png",
             "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
             "hosted": "https://niyaazdaniels-keyboard.netlify.app"
         },
         {
             "name": "Netflix",
             "description": "I built a replica of netflix using HTML 5, CSS however there is no functionality",
-            "image": "https://i.postimg.cc/yxZcvkKt/Netflix-removebg-preview.png",
+            "image": "https://iili.io/J78I6Ob.png",
             "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
             "hosted": "https://niyaazdaniels-netflix.netlify.app"
         },
         {
             "name": "First Ecommerce",
             "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.postimg.cc/tJK3Vthc/Ecommerce-removebg-preview.png",
+            "image": "https://iili.io/J78IQsV.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
             "hosted": "https://ecommerce-module1-niyaazdaniels.netlify.app"
         },
         {
             "name": "Second Ecommerce",
             "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.postimg.cc/tJSwtvX2/Bobs-Clothing-removebg-preview.png",
+            "image": "https://iili.io/J78Ibg1.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
             "hosted": "https://elaborate-kringle-f401f5.netlify.app"
         }
