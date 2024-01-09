@@ -9,8 +9,8 @@
     ],
     "about": [
         {
-        "career": "Career Summary",
-        "name": "I Am Niyaaz Daniels", 
+        "heading2": "Career Summary",
+        "name": "Niyaaz Daniels", 
         "description":"I aspire to be a full stack developer and Game Developer. Learning is key in life and to never have a fixed mindset of I Know Enough. I have a keen interest in learning coding, a burning passion to create and to provide. I enjoy helping everyone. I am fueled with energy and passion. When I am not  infront of a device I spend my time with family or nature, nothing more soothing than hearing the wind blow between the trees without our modern day noise. I enjoy having a balance towards everything as too much of something is bad. There's no substitute for hardwork. if it's easy then do it easy, if it's hard than do it hard, just get it done because failure is limitations that you set for yourself, so I choose to be limitless and to become undeniable.",
         "image": "https://drive.google.com/uc?id=1ynLQiCH0pwASX1QTfjr5wIBhtw-5zYHS",
         "experience": "2 years total work experience, I have been exposed to different industry that require high focus for high stress environments, I started working as a call centre agent which required patience, timeliness and empathy towards the customer, followed by working in live events that required patients and understanding and the ability to perform in high stress environments and perform exceptionally while doing so, followed by working as a warehouse storeman, being the sole person responsible of handling customer expectations and request, handling stock and meeting deadlines.",
@@ -21,7 +21,13 @@
         "language2" : "Afrikaans",
         "Hobbie1": "Gym",
         "Hobbie2": "Hiking",
-        "Hobbie3": "FPS Gaming"
+        "Hobbie3": "FPS Gaming",
+        "heading": "Work Experience",
+        "subheading1": "Interests",
+        "subheading2": "Skills",
+        "subheading3": "Education",
+        "subheading4": "Languages"
+
         }
     ],
     "education": [
@@ -74,23 +80,24 @@
     ],
 
     "experience": [
+
         {
-            "job-tite": "Technical Call Centre Agent",
+            "job-title": "Technical Call Centre Agent",
             "job-description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
             "year": "2019"
         },
         {
-            "job-tite": ">AV Technician in Training",
+            "job-title": ">AV Technician in Training",
             "job-description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
             "year": "2020"
         },
         {
-            "job-tite": "Warehouse Storeman",
+            "job-title": "Warehouse Storeman",
             "job-description": "Solely in charge of warehouse operations, managing, conducting quality assurance checks for new stock arrivals, drafting reports for damaged goods and reporting to chain of command, assisting technical with any inquiries relating product resolutions and stock replacements, assisted sales representatives with reports of expected stock date arrivals and customer Project and delivery, ensured warehouse safety and security, cleanliness and upkeep of inventory for both warehouse and office employees, and much more.",
             "year": "2021"
         },
         {
-            "job-tite": "Life Choices Student",
+            "job-title": "Life Choices Student",
             "job-description": "Coding Bootcamp to learn, understand and design and develop web applications",
             "year":" current"
         }
