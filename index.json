@@ -50,32 +50,27 @@
         {
             "title": "HTML",
             "level": " Junior",
-            "description": "I have a basic understanding of how to build a website",
-            "display": "https://i.postimg.cc/NFQphR43/HTML-5-Logo.png"
+            "description": "I have a basic understanding of how to build a website"
         },
         {
             "title": "CSS",
             "level": "Junior",
-            "description": "I have basic understanding of styling a website",
-            "display": "https://i.postimg.cc/mZFbhCTY/CSS-Logo.png"
+            "description": "I have basic understanding of styling a website"
         },
         {
             "title": "Bootstrap 5",
             "level":" Junior",
-            "description": "I have a basic understanding of how to incorporate boostrap 5 within HTML 5",
-            "display": "https://i.postimg.cc/FKfzhqzv/Bootstrap-5-Logo.png"
+            "description": "I have a basic understanding of how to incorporate boostrap 5 within HTML 5"
         },
         {
             "title": "Javascript",
             "level": "Junior",
-            "description": "I have a basic understanding of how to add functionality into the website",
-            "display": "https://i.postimg.cc/brzQMfjG/JS-1.png"
+            "description": "I have a basic understanding of how to add functionality into the website"
         },
         {
             "title": "VueJS",
             "level": "Junior",
-            "description": "I have a basic understanding of how VueJS works",
-            "display": "https://i.postimg.cc/RVNw6B4R/vuej-1.png"
+            "description": "I have a basic understanding of how VueJS works"
         }
     ],
     "experience": [
@@ -109,37 +104,43 @@
             "name": "Matthew",
             "surname": "Brown",
             "testimonial": "Niyaaz is a hardworking and dedicated individual. His analytical and creative skills are exceptional. He is confident, shows great work ethic and knows how to work in a team.",
-            "image": "https://i.postimg.cc/g0ybsdcr/Matthew.png"
+            "image": "https://drive.google.com/uc?id=1IajGWUTilEL2KqG9pwf2BjzC6t1LQZ6J"
         },
         {
             "name": "Daanyaal",
             "surname": "Kellerman",
             "testimonial": "Niyaaz, is a coding wizard! His passion for problem solving shows in his personality and work. He's always ready to help, patient with questions, and fosters a supportive learning environment. Niyaaz is an invaluable asset to my team.",
-            "image": "https://i.postimg.cc/T3tTvTMS/Daanyaal.png"
+            "image": "https://drive.google.com/uc?id=1qpGE_OcpcsnWGkkD2SJ3WYxmgM7jNMRG"
         },
         {
             "name": "Joel",
             "surname": "Williams",
             "testimonial": "Niyaaz is an extremely hardworking person. His dedication and concentration in his work are genuinely astounding, and he consistently goes above and beyond to get exceptional outcomes. It's a pleasure to work with someone who is so focused and driven.",
-            "image": "https://i.postimg.cc/0Ncp6hdB/joel.png"
+            "image": "https://drive.google.com/uc?id=1-nlI57pdZJsDjFNl0JkHw4pMsiGZml7P"
         },
         {   
             "name": "Unity",
             "surname": "Demas",
             "testimonial": "Niyaaz's proficiency in various programming languages and problem-solving skills are truly impressive. Niyaaz's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team.",
-            "image": "https://i.postimg.cc/1Xyqdm7G/unitydemas-1-removebg-preview.png"
+            "image": "https://drive.google.com/uc?id=1m3tZDo8cxUbvzMjhS862Utxz_hGe3NX3"
         },
         {   
             "name": "Chad",
             "surname": "Nelson",
-            "testimonial": "",
-            "image": "https://i.postimg.cc/xdSs3CdY/IMG-20221101-200733-582-removebg-preview-1-1.png"
+            "testimonial": "Niyaaz is great at handling tasks and projects. He's efficient, communicates well, and consistently succeeds in different work environments, showing his capability and effectiveness.",
+            "image": "https://drive.google.com/uc?id=1xE9ZYlaeqDT_Q4DUnoIAZdmU6xK3p_Zo"
         },
         {   
             "name": "Haanim",
             "surname": "Pietersen",
             "testimonial": "",
-            "image": "https://i.postimg.cc/d3Tdf2Wf/IMG-20231225-100757.png"
+            "image": "https://drive.google.com/uc?id=10m6tlnNz1GiEc_uKAiXK2SxjDuNJqoD8"
+        },
+        {   
+            "name": "Zubair",
+            "surname": "Moerat",
+            "testimonial": "I wholeheartedly recommend Niyaaz Daniels for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time.",
+            "image": "https://drive.google.com/uc?id=1G1NkoOZYI26CzEdvu5By-dmqgbGgz5Ck"
         }
     ],
     "projects":[
