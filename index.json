@@ -79,26 +79,25 @@
         }
     ],
     "experience": [
-
         {
             "title": "Technical Call Centre Agent",
-            "job-description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
+            "description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
             "year": "2019"
         },
         {
             "title": ">AV Technician in Training",
-            "job-description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
-            "year": "2020"
+            "description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
+            "year": "2020 to 2021"
         },
         {
             "title": "Warehouse Storeman",
             "job-description": "Solely in charge of warehouse operations, managing, conducting quality assurance checks for new stock arrivals, drafting reports for damaged goods and reporting to chain of command, assisting technical with any inquiries relating product resolutions and stock replacements, assisted sales representatives with reports of expected stock date arrivals and customer Project and delivery, ensured warehouse safety and security, cleanliness and upkeep of inventory for both warehouse and office employees, and much more.",
-            "year": "2021"
+            "year": "2021 to 2022"
         },
         {
             "title": "Life Choices Student",
-            "job-description": "Coding Bootcamp to learn, understand and design and develop web applications",
-            "year":" current"
+            "description": "Coding Bootcamp to learn, understand and design and develop web applications",
+            "year":" 2023 to current"
         }
     ],
     "testimonials": [
