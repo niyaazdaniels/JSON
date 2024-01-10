@@ -147,6 +147,9 @@
             "surname": "Abrahams",
             "testimonial": "Niyaaz is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally.",
             "image": "https://iili.io/J78uza1.md.png"
+        },
+        {
+            "heading": "What others have to say about me"
         }
     ],
     "projects":[
@@ -191,6 +194,9 @@
             "image": "https://iili.io/J78Ibg1.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
             "hosted": "https://elaborate-kringle-f401f5.netlify.app"
+        },
+        {
+            "heading": "My projects so far"
         }
     ]
 }
