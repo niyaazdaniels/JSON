@@ -28,7 +28,6 @@
         "subheading2": "Skills",
         "subheading3": "Education",
         "subheading4": "Languages"
-
         }
     ],
     "education": [
@@ -134,7 +133,7 @@
         {   
             "name": "Haanim",
             "surname": "Pietersen",
-            "testimonial": "Since I've known Niyaaz I have known him to be a hardworking and dedicated person. He is very determined at getting his work and proves how hardworking he is through all his time and efforts in coding. He is a great person to lead the team with all the characteristics of a leader. I would highly recommend Niyaaz to be a great worker in a team and alone, as well as someone that understands and codes well.",
+            "testimonial": "Since I've known Niyaaz I have known him to be a hardworking and dedicated person. He is a great person to lead the team with all the characteristics of a leader. I would highly recommend Niyaaz to be a great worker in a team and alone, as well as someone that understands and codes well.",
             "image": "https://iili.io/J78TIIf.md.png"
         },
         {   
@@ -174,7 +173,7 @@
         },
         {
             "name": "Netflix",
-            "description": "I built a replica of netflix using HTML 5, CSS however there is no functionality",
+            "description": "I built a replica of netflix using HTML 5 and CSS",
             "image": "https://iili.io/J78I6Ob.png",
             "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
             "hosted": "https://niyaazdaniels-netflix.netlify.app"
