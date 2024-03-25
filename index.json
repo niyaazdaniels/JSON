@@ -50,29 +50,19 @@
     ],
     "skills": [
         {
-            "title": "HTML",
-            "level": " Junior",
-            "description": "I have a basic understanding of how to build a website"
+            "title": "HTML"
         },
         {
-            "title": "CSS",
-            "level": "Junior",
-            "description": "I have basic understanding of styling a website"
+            "title": "CSS"
         },
         {
-            "title": "Bootstrap 5",
-            "level":" Junior",
-            "description": "I have a basic understanding of how to incorporate boostrap 5 within HTML 5"
+            "title": "Bootstrap 5"
         },
         {
-            "title": "Javascript",
-            "level": "Junior",
-            "description": "I have a basic understanding of how to add functionality into the website"
+            "title": "Javascript"
         },
         {
-            "title": "VueJS",
-            "level": "Junior",
-            "description": "I have a basic understanding of how VueJS works"
+            "title": "VueJS"
         },
         {
             "title" : "NodeJS"
