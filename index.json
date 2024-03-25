@@ -128,7 +128,7 @@
             "name": "Unity",
             "surname": "Demas",
             "testimonial": "Niyaaz's proficiency in various programming languages and problem-solving skills are truly impressive. Niyaaz's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team.",
-            "image": "https://iili.io/J78ThrP.png"
+            "image": "https://iili.io/JhDwL0u.md.png"
         },
         {   
             "name": "Chad",
@@ -152,7 +152,7 @@
             "name": "Jodi",
             "surname": "Abrahams",
             "testimonial": "Niyaaz is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally.",
-            "image": "https://iili.io/J78uza1.md.png"
+            "image": "https://iili.io/JhDNG1e.png"
         }
     ],
     "projects":[
@@ -168,35 +168,49 @@
             "description": "I built it using HTML 5, CSS 3, Javascript",
             "image": "https://iili.io/J78Iks2.png",
             "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
-            "hosted": "https://niyaazdaniels-calculator.netlify.app"
+            "hosted": "calculator-gu7a.vercel.app"
         },
         {
             "name": "Keyboard",
             "description": "I built this project using basic HTML 5 and CSS 3",
             "image": "https://iili.io/J78IS07.png",
             "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
-            "hosted": "https://niyaazdaniels-keyboard.netlify.app"
+            "hosted": "keyboard-css-js-4vlo.vercel.app"
         },
         {
             "name": "Netflix",
             "description": "I built a replica of netflix using HTML 5 and CSS",
             "image": "https://iili.io/J78I6Ob.png",
             "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
-            "hosted": "https://niyaazdaniels-netflix.netlify.app"
+            "hosted": "netflix-pearl-psi.vercel.app"
         },
         {
             "name": "First Ecommerce",
             "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
             "image": "https://iili.io/J78IQsV.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
-            "hosted": "https://ecommerce-module1-niyaazdaniels.netlify.app"
+            "hosted": "ecommerce-website-eight-opal.vercel.app"
         },
         {
             "name": "Second Ecommerce",
             "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
             "image": "https://iili.io/J78Ibg1.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
-            "hosted": "https://elaborate-kringle-f401f5.netlify.app"
+            "hosted": "ecommerce-home-eight.vercel.app"
+        },
+        {
+            "name" : "CapStone Project",
+            "description" : "Full Ecommerce Project",
+            "image": "https://iili.io/JhDsCib.md.png",
+            "gitHub": "https://github.com/niyaazdaniels/CapStone-Ecom.git",
+            "hosted": "bobsolarsolutions.web.app"
+        },
+        {
+            "name":  "Node Group Project",
+            "description": "I was responsible for the backend of this project."
+            "image": "https://iili.io/JhDLYpS.md.png",
+            "gitHub": "https://github.com/niyaazdaniels/NODE_EOMP.git",
+            "hosted": "https://nodeeomp-7c094.web.app"
         }
     ]
 }
