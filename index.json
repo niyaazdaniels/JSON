@@ -71,6 +71,12 @@
             "title": "VueJS",
             "level": "Junior",
             "description": "I have a basic understanding of how VueJS works"
+        },
+        {
+            "title" : "NodeJS"
+        },
+        {
+            "title": "MySQL"
         }
     ],
     "experience": [
