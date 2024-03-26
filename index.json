@@ -151,14 +151,14 @@
         {
             "name": "To-do List",
             "description": "I built this project using HTML 5, CSS, and basic Javascript.",
-            "image": "https://iili.io/J78I7Ra.md.png",
+            "image": "https://iili.io/JjBxYtS.png",
             "gitHub": "https://github.com/niyaazdaniels/TDL",
             "hosted": "tdl-omega.vercel.app"
         },
         {
             "name": "Calculator",
             "description": "I built it using HTML 5, CSS 3, Javascript",
-            "image": "https://iili.io/J78Iks2.png",
+            "image": "https://iili.io/JjBx4Np.png",
             "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
             "hosted": "calculator-gu7a.vercel.app"
         },
@@ -192,7 +192,7 @@
         },
         {
             "name" : "CapStone Project",
-            "description" : "Full Ecommerce Project",
+            "description" : "Full Ecommerce Project using all languages that we learnt.",
             "image": "https://iili.io/JhDsCib.md.png",
             "gitHub": "https://github.com/niyaazdaniels/CapStone-Ecom.git",
             "hosted": "bobsolarsolutions.web.app"
@@ -203,6 +203,13 @@
             "image": "https://iili.io/JhDLYpS.md.png",
             "gitHub": "https://github.com/niyaazdaniels/NODE_EOMP.git",
             "hosted": "https://nodeeomp-7c094.web.app"
+        },
+        {
+            "name": "Bootstrap Portfolio",
+            "description": "created using HTML5, CSS3 and Bootstrap 5",
+            "image": "https://iili.io/JjBza5v.png",
+            "gitHub": "https://github.com/niyaazdaniels/Bootstrap-EOMP.git",
+            "hosted": "bootstrap-eomp-eta.vercel.app"
         }
     ]
 }
