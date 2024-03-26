@@ -153,49 +153,49 @@
             "description": "I built this project using HTML 5, CSS, and basic Javascript.",
             "image": "https://iili.io/JjBxYtS.png",
             "gitHub": "https://github.com/niyaazdaniels/TDL",
-            "hosted": "tdl-omega.vercel.app"
+            "hosted": "https://tdl-omega.vercel.app"
         },
         {
             "name": "Calculator",
             "description": "I built it using HTML 5, CSS 3, Javascript",
             "image": "https://iili.io/JjBx4Np.png",
             "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
-            "hosted": "calculator-gu7a.vercel.app"
+            "hosted": "https://calculator-gu7a.vercel.app"
         },
         {
             "name": "Keyboard",
             "description": "I built this project using basic HTML 5 and CSS 3",
             "image": "https://iili.io/J78IS07.png",
             "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
-            "hosted": "keyboard-css-js-4vlo.vercel.app"
+            "hosted": "https://keyboard-css-js-4vlo.vercel.app"
         },
         {
             "name": "Netflix",
             "description": "I built a replica of netflix using HTML 5 and CSS",
             "image": "https://iili.io/J78I6Ob.png",
             "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
-            "hosted": "netflix-pearl-psi.vercel.app"
+            "hosted": "https://netflix-pearl-psi.vercel.app"
         },
         {
             "name": "First Ecommerce",
             "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
             "image": "https://iili.io/J78IQsV.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
-            "hosted": "ecommerce-website-eight-opal.vercel.app"
+            "hosted": "https://ecommerce-website-eight-opal.vercel.app"
         },
         {
             "name": "Second Ecommerce",
             "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
             "image": "https://iili.io/J78Ibg1.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
-            "hosted": "ecommerce-home-eight.vercel.app"
+            "hosted": "https://ecommerce-home-eight.vercel.app"
         },
         {
             "name" : "CapStone Project",
             "description" : "Full Ecommerce Project using all languages that we learnt.",
             "image": "https://iili.io/JhDsCib.md.png",
             "gitHub": "https://github.com/niyaazdaniels/CapStone-Ecom.git",
-            "hosted": "bobsolarsolutions.web.app"
+            "hosted": "https://bobsolarsolutions.web.app"
         },
         {
             "name":  "Node Group Project",
@@ -209,7 +209,7 @@
             "description": "created using HTML5, CSS3 and Bootstrap 5",
             "image": "https://iili.io/JjBza5v.png",
             "gitHub": "https://github.com/niyaazdaniels/Bootstrap-EOMP.git",
-            "hosted": "bootstrap-eomp-eta.vercel.app"
+            "hosted": "https://bootstrap-eomp-eta.vercel.app"
         }
     ]
 }
