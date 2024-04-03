@@ -179,14 +179,14 @@
         {
             "name": "First Ecommerce",
             "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
-            "image": "https://iili.io/J78IQsV.png",
+            "image": "https://iili.io/JNozw0l.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
             "hosted": "https://ecommerce-website-eight-opal.vercel.app"
         },
         {
             "name": "Second Ecommerce",
             "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
-            "image": "https://iili.io/J78Ibg1.png",
+            "image": "https://iili.io/JNoI0Ex.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
             "hosted": "https://ecommerce-home-eight.vercel.app"
         },
