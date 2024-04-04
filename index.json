@@ -36,7 +36,7 @@
         {
             "id": 1,
             "year": "2016 to 2019",
-            "description": "Commerce degree in Information Management",
+            "description": "Bachelor of Commerce in Information Management",
             "place": "Damelin Mowbray",
             "type": "Degree"
         },
@@ -80,16 +80,10 @@
     ],
     "experience": [
         {
-            "title": "Technical Call Centre Agent",
-            "description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
-            "year": "2019",
-            "company" : "iiNet"
-        },
-        {
-            "title": "AV Technician in Training",
-            "description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
-            "year": "2020 to 2021",
-            "company": "Inhouse Venue Technical Management (IVTM)"
+            "title": "LC Intern",
+            "description": "Upskilling in areas such as Web Development, Software Engineering, Cyber Security and Networking.",
+            "year":" 2024 to current",
+            "company": "Life Choices Studio"
         },
         {
             "title": "Warehouse Storeman",
@@ -98,12 +92,17 @@
             "company": "Revov Batteries Pty Ltd"
         },
         {
-            "title": "Intern",
-            "description": "Upskilling in areas such as Web Development, Software Engineering, Cyber Security and Networking.",
-            "year":" 2024 to current",
-            "company": "Life Choices Studio"
+            "title": "AV Technician in Training",
+            "description": "Assisted all permanent and freelance technicians with event preparation, on-site setup, site cleanup and checking in of event equipment. Assisted with volunteer events on weekends and public holidays to gain additional experience. Assisted drivers, warehouse staff and project managers with any and all assistance where skills were required and applicable.",
+            "year": "2020 to 2021",
+            "company": "Inhouse Venue Technical Management"
+        },
+        {
+            "title": "Technical Call Centre Agent",
+            "description": "Assisting customers with technical support telephonically, remotely, and via email. Assisting provided was but is not limited too assisting customers with any internet issues and creating tickets if needed, assisting customers who aren't tech savy through remote assistance, assisting customers with issues such as domain, VOiP and billing concerns.",
+            "year": "2019",
+            "company" : "iiNet"
         }
-        
     ],
     "testimonials": [
         {
