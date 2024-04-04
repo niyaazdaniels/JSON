@@ -42,10 +42,17 @@
         },
         {
             "id": 2,
-            "year": 2015,
+            "year": "2015",
             "description": "High School ",
             "place": "Plumstead High School",
             "type": "Certificate"
+        },
+        {
+           "id": 2,
+            "year": "2023 to 2024",
+            "description": "Coding Academy ",
+            "place": "Life Choices Academy",
+            "type": "Certificate" 
         }
     ],
     "skills": [
@@ -89,12 +96,6 @@
             "description": "Solely in charge of warehouse operations, managing, conducting quality assurance checks for new stock arrivals, drafting reports for damaged goods and reporting to chain of command, assisting technical with any inquiries relating product resolutions and stock replacements, assisted sales representatives with reports of expected stock date arrivals and customer Project and delivery, ensured warehouse safety and security, cleanliness and upkeep of inventory for both warehouse and office employees, and much more.",
             "year": "2021 to 2022",
             "company": "Revov Batteries Pty Ltd"
-        },
-        {
-            "title": "Student",
-            "description": "Coding Bootcamp to learn, understand and design and develop web applications",
-            "year":" 2023 to 2024",
-            "company": "Life Choices Academy"
         },
         {
             "title": "Intern",
