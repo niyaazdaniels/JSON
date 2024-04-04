@@ -93,120 +93,135 @@
         {
             "title": "Student",
             "description": "Coding Bootcamp to learn, understand and design and develop web applications",
-            "year":" 2023 to current",
+            "year":" 2023 to 2024",
             "company": "Life Choices Academy"
+        },
+        {
+             "title": "Intern",
+            "description": "Upskilling in areas such as Web Development, Software Engineering, Cyber Security and Networking.",
+            "year":" 2024 to current",
+            "company": "Life Choices Studio "
         }
+        
     ],
     "testimonials": [
         {
             "name": "Matthew",
             "surname": "Brown",
             "testimonial": "Niyaaz is a hardworking and dedicated individual. His analytical and creative skills are exceptional. He is confident, shows great work ethic and knows how to work in a team.",
-            "image": "https://iili.io/JwtV4s9.md.jpg"
+            "image": "https://iili.io/JwtV4s9.md.jpg",
+            "contact": "+27 71 563 4139"
         },
         {
             "name": "Daanyaal",
             "surname": "Kellerman",
             "testimonial": "Niyaaz, is a coding wizard! His passion for problem solving shows in his personality and work. He's always ready to help, patient with questions, and fosters a supportive learning environment. Niyaaz is an invaluable asset to my team.",
-            "image": "https://iili.io/JhDMoF4.jpg"
+            "image": "https://iili.io/JhDMoF4.jpg",
+            "contact": "+27 68 007 1963 "
         },
         {
             "name": "Joel",
             "surname": "Williams",
             "testimonial": "Niyaaz is an extremely hardworking person. His dedication and concentration in his work are genuinely astounding, and he consistently goes above and beyond to get exceptional outcomes. It's a pleasure to work with someone who is so focused and driven.",
-            "image": "https://iili.io/JhD1yxa.md.jpg"
+            "image": "https://iili.io/JhD1yxa.md.jpg",
+             "contact": "+27 62 771 3590"
         },
         {   
             "name": "Unity",
             "surname": "Demas",
             "testimonial": "Niyaaz's proficiency in various programming languages and problem-solving skills are truly impressive. Niyaaz's collaborative nature and willingness to share knowledge have made helped me understand more. He's a valuable asset to any development team.",
-            "image": "https://iili.io/JhDwL0u.md.png"
+            "image": "https://iili.io/JhDwL0u.md.png",
+            "contact": "+27 83 267 3554"
         },
         {   
             "name": "Chad",
             "surname": "Nelson",
             "testimonial": "Niyaaz is great at handling tasks and projects. He's efficient, communicates well, and consistently succeeds in different work environments, showing his capability and effectiveness.",
-            "image": "https://iili.io/J74V1s4.md.jpg"
+            "image": "https://iili.io/J74V1s4.md.jpg",
+            "contact": "+27 73 726 9407"
         },
         {   
             "name": "Haanim",
             "surname": "Pietersen",
             "testimonial": "Since I've known Niyaaz I have known him to be a hardworking and dedicated person. He is a great person to lead the team with all the characteristics of a leader. I would highly recommend Niyaaz to be a great worker in a team and alone, as well as someone that understands and codes well.",
-            "image": "https://iili.io/J78TIIf.md.png"
+            "image": "https://iili.io/J78TIIf.md.png",
+            "contact": "+27 71 433 2419"
         },
         {   
             "name": "Zubair",
             "surname": "Moerat",
             "testimonial": "I wholeheartedly recommend Niyaaz Daniels for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time.",
-            "image": "https://iili.io/J78T3sp.md.jpg"
+            "image": "https://iili.io/J78T3sp.md.jpg",
+             "contact": "+27 68 266 5739"
         },
         {   
             "name": "Jodi",
             "surname": "Abrahams",
             "testimonial": "Niyaaz is a dedicated person and does his best on each and every project that gets handed to him. He has an amazing personality and conducts himself very professionally.",
-            "image": "https://iili.io/JhDNG1e.png"
+            "image": "https://iili.io/JhDNG1e.png",
+            "contact": "+27 78 209 6121"
         }
     ],
     "projects":[
         {
             "name": "To-do List",
-            "description": "I built this project using HTML 5, CSS, and basic Javascript.",
+            "description": "I built this project using HTML 5, CSS, and basic Javascript. You're able to add, complete and remove tasks as you wish to do so and the wesbite is fully responsive.",
             "image": "https://iili.io/JjBxYtS.png",
             "gitHub": "https://github.com/niyaazdaniels/TDL",
             "hosted": "https://tdl-omega.vercel.app"
         },
         {
             "name": "Calculator",
-            "description": "I built it using HTML 5, CSS 3, Javascript",
+            "description": "I built it using HTML 5, CSS 3, Javascript. You're able to calculate numbers accordingly and the website is fully responsive and the alignment is correct.",
             "image": "https://iili.io/JjBx4Np.png",
             "gitHub": "https://github.com/niyaazdaniels/Calculator-Home.git",
             "hosted": "https://calculator-gu7a.vercel.app"
         },
         {
             "name": "Keyboard",
-            "description": "I built this project using basic HTML 5 and CSS 3",
+            "description": "I built this project using basic HTML 5 and CSS 3, this is a basic keyboard design without functionality. The website has some responsiveness and alignment is fixed.",
             "image": "https://iili.io/J78IS07.png",
             "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
             "hosted": "https://keyboard-css-js-4vlo.vercel.app"
         },
         {
             "name": "Netflix",
-            "description": "I built a replica of netflix using HTML 5 and CSS",
+            "description": "I built a replica of netflix using HTML 5 and CSS, the website featueres signup and login features, you have an account view. The website is not responsive and has no functionality.",
             "image": "https://iili.io/J78I6Ob.png",
             "gitHub": "https://github.com/niyaazdaniels/Netflix.git",
             "hosted": "https://netflix-pearl-psi.vercel.app"
         },
         {
             "name": "First Ecommerce",
-            "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap.",
+            "description": "I built my first ecommerce website using HTML 5, CSS, Bootstrap. The website features products, contact and checkout page. No functionality was added and responsiveness needs to be fixed.",
             "image": "https://iili.io/JNozw0l.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-website.git",
             "hosted": "https://ecommerce-website-eight-opal.vercel.app"
         },
         {
             "name": "Second Ecommerce",
-            "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap.",
+            "description": "I built my second ecommerce website using HTML 5, CSS, Bootstrap. No functionality within the website however it is responsive and aligned correctly. It is single page view.",
             "image": "https://iili.io/JNoI0Ex.png",
             "gitHub": "https://github.com/niyaazdaniels/ecommerce-home.git",
             "hosted": "https://ecommerce-home-eight.vercel.app"
         },
         {
             "name" : "CapStone Project",
-            "description" : "Full Ecommerce Project using all languages that we learnt.",
+            "description" : "Full Ecommerce Project using all languages that we learnt. Languages used are HTML5, CSS3, Bootstrap 5, VueJS, NodeJS, MySQL. The website is multiple pages.",
             "image": "https://iili.io/JhDsCib.md.png",
             "gitHub": "https://github.com/niyaazdaniels/CapStone-Ecom.git",
             "hosted": "https://bobsolarsolutions.web.app"
         },
         {
             "name":  "Node Group Project",
-            "description": "I was responsible for the backend of this project.",
+            "description": "I was responsible for the backend of this project. Languages used on backend are MySQL for the database, NodeJs with ExpressJS. The website is multiple pages.",
             "image": "https://iili.io/JhDLYpS.md.png",
             "gitHub": "https://github.com/niyaazdaniels/NODE_EOMP.git",
             "hosted": "https://nodeeomp-7c094.web.app"
         },
         {
             "name": "Bootstrap Portfolio",
-            "description": "created using HTML5, CSS3 and Bootstrap 5",
+            "description": "created using HTML5, CSS3 and Bootstrap 5. A fully responsive portfolo that makes use of all the aspects learnt over the past 3 months, however it is not aligned fully.",
             "image": "https://iili.io/JjBza5v.png",
             "gitHub": "https://github.com/niyaazdaniels/Bootstrap-EOMP.git",
             "hosted": "https://bootstrap-eomp-eta.vercel.app"
