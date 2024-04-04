@@ -199,14 +199,14 @@
             "hosted": "https://bobsolarsolutions.web.app"
         },
         {
-            "name":  "Node Group Project",
-            "description": "I devveloped and was responsible for the backend of this project. Languages used on backend are MySQL for the database, NodeJs with ExpressJS. The website is multiple pages.",
+            "name":  "Node Project",
+            "description": "I developed and was responsible for the backend of this project. Languages used on backend are MySQL for the database, NodeJs with ExpressJS. The website is multiple pages.",
             "image": "https://iili.io/JhDLYpS.md.png",
             "gitHub": "https://github.com/niyaazdaniels/NODE_EOMP.git",
             "hosted": "https://nodeeomp-7c094.web.app"
         },
         {
-            "name": "Bootstrap Portfolio",
+            "name": "Portfolio",
             "description": "created using HTML5, CSS3 and Bootstrap 5. A fully responsive portfolo that makes use of all the aspects learnt over the past 3 months, however it is not aligned fully.",
             "image": "https://iili.io/JjBza5v.png",
             "gitHub": "https://github.com/niyaazdaniels/Bootstrap-EOMP.git",
