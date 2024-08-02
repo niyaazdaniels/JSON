@@ -179,11 +179,11 @@
             "hosted": "https://calculator-gu7a.vercel.app"
         },
         {
-            "name": "Keyboard",
-            "description": "I built this keyboard project using basic HTML 5 and CSS 3, this is a basic keyboard design without functionality. The website has some responsiveness and alignment is fixed.",
-            "image": "https://iili.io/J78IS07.png",
-            "gitHub": "https://github.com/niyaazdaniels/Keyboard.git",
-            "hosted": "https://keyboard-css-js-4vlo.vercel.app"
+            "name": "Weather App",
+            "description": "I built this weather app using Python3 and Flask with basic HTML5, CSS3 and Bootstrap as well as OpenWeather API making the app basic but operational at best.",
+            "image": "https://iili.io/dALNiuf.th.png",
+            "gitHub": "https://github.com/niyaazdaniels/Weather-Hackathon",
+            "hosted": "https://www.weather-hackathon-phph.vercel.app"
         },
         {
             "name": "Netflix",
