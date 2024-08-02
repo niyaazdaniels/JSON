@@ -183,7 +183,7 @@
             "description": "I built this weather app using Python3 and Flask with basic HTML5, CSS3 and Bootstrap as well as OpenWeather API making the app basic but operational at best.",
             "image": "https://iili.io/dALNiuf.th.png",
             "gitHub": "https://github.com/niyaazdaniels/Weather-Hackathon",
-            "hosted": "https://www.weather-hackathon-phph.vercel.app"
+            "hosted": "https://weather-hackathon-phph.vercel.app"
         },
         {
             "name": "Netflix",
